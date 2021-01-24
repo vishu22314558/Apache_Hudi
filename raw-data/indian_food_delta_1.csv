@@ -1,0 +1,25 @@
+foodid,name,ingredients,diet,prep_time,cook_time,flavor_profile,course,state,region
+8,Kaju katli,"Cashews, ghee, cardamom, sugar",vegetarian,10,20,sweet,dessert,Punjab,-1
+10,Kheer,"Milk, rice, sugar, dried fruits",vegetarian,10,40,sweet,dessert,Punjab,-1
+11,Laddu,"Gram flour, ghee, sugar",vegetarian,10,40,sweet,dessert,Punjab,-1
+13,Nankhatai,"Refined flour, besan, ghee, powdered sugar, yoghurt, green cardamom",vegetarian,20,30,sweet,dessert,Punjab,-1
+95,Khichdi,"Moong dal, green peas, ginger, tomato, green chili",vegetarian,40,20,spicy,main course,Punjab,-1
+97,Kulfi falooda,"Rose syrup, falooda sev, mixed nuts, saffron, sugar",vegetarian,45,25,sweet,dessert,Punjab,-1
+99,Lauki ki subji,"Bottle gourd, coconut oil, garam masala, ginger, green chillies",vegetarian,10,20,spicy,main course,Punjab,-1
+110,Pani puri,"Kala chana, mashed potato, boondi, sev, lemon",vegetarian,15,2,spicy,snack,Punjab,-1
+112,Papad,"Urad dal, sev, lemon juice, chopped tomatoes",vegetarian,5,5,spicy,snack,Punjab,-1
+116,Rajma chaval,"Red kidney beans, garam masala powder, ginger, tomato, mustard oil",vegetarian,15,90,spicy,main course,Punjab,North
+118,Samosa,"Potatoes, green peas, garam masala, ginger, dough",vegetarian,30,30,spicy,snack,Punjab,-1
+129,Dosa,"Chana dal, urad dal, whole urad dal, blend rice, rock salt",vegetarian,360,90,spicy,snack,Punjab,South
+131,Idli,"Split urad dal, urad dal, idli rice, thick poha, rock salt",vegetarian,360,90,spicy,snack,Punjab,South
+146,Pachadi,"Coconut oil, cucumber, curd, curry leaves, mustard seeds",vegetarian,10,25,-1,main course,Punjab,South
+150,Payasam,"Rice, cashew nuts, milk, raisins, sugar",vegetarian,15,30,sweet,dessert,Punjab,South
+155,Rasam,"Tomato, curry leaves, garlic, mustard seeds, hot water",vegetarian,10,35,spicy,main course,Punjab,South
+157,Sambar,"Pigeon peas, eggplant, drumsticks, sambar powder, tamarind",vegetarian,20,45,spicy,main course,Punjab,South
+159,Sevai,"Sevai, parboiled rice, steamer",vegetarian,120,30,-1,main course,Punjab,South
+162,Uttapam,"Chana dal, urad dal, thick poha, tomato, butter",vegetarian,10,20,spicy,snack,Punjab,South
+163,Vada,"Urad dal, ginger, curry leaves, green chilies, black pepper",vegetarian,15,20,spicy,snack,Punjab,South
+165,Upma,"Chana dal, urad dal, ginger, curry leaves, sugar",vegetarian,10,20,spicy,snack,Punjab,-1
+232,Brown Rice,"Brown rice, soy sauce, olive oil",vegetarian,15,25,-1,main course,Punjab,-1
+249,Red Rice,"Red pepper, red onion, butter, watercress, olive oil",vegetarian,-1,-1,-1,main course,Punjab,-1
+145,Masala Dosa,"Chana dal, urad dal, potatoes, idli rice, thick poha",vegetarian,360,90,spicy,snack,Punjab,South

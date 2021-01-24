@@ -1,0 +1,4 @@
+foodid,name,ingredients,diet,prep_time,cook_time,flavor_profile,course,state,region
+212,Vindaloo,"Chicken, coconut oil, wine vinegar, ginger, green, cinnamon",non_vegetarian,10,40,spicy,main course,Goa,West
+252,Bebinca,"Coconut milk, egg yolks, clarified butter, all purpose flour",vegetarian,20,60,sweet,dessert,Goa,West
+255,Pinaca,"Brown rice, fennel seeds, grated coconut, black pepper, ginger powder",vegetarian,-1,-1,sweet,dessert,Goa,West
